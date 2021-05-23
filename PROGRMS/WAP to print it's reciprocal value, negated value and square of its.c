@@ -1,5 +1,4 @@
-/****************GIVEN AN INPUT (x), WAP TO PRINT IT'S RECIPROCAL
-VALUE (1/x) NEGATED VALUE (-x) AND SQUARE (x^2) OF IT***********/
+/****************GIVEN AN INPUT (x), WAP TO PRINT IT'S RECIPROCAL VALUE (1/x) NEGATED VALUE (-x) AND SQUARE (x^2) OF IT***********/
 
 #include<stdio.h>
 void main()
