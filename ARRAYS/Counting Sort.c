@@ -1,5 +1,5 @@
 /***********PROGRAM FOR COUNTING SORT**************/
-/***AUTHOR : ANANYA SHUKLA, AD NO. :2019B101169****/
+/***AUTHOR : Program By ANANYA SHUKLA, AD NO. :2019B101169****/
 /**************************************************/
 #include <stdio.h>
 /**************************************************/
